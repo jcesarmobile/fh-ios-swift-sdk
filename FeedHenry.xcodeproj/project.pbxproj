@@ -106,7 +106,6 @@
 		48A126E31C61FE0A00F2C4A6 /* FHJSON.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = FHJSON.m; path = Sync/FHJSON.m; sourceTree = "<group>"; };
 		48A126E61C61FFBF00F2C4A6 /* Response.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Response.swift; path = Cloud/Response.swift; sourceTree = "<group>"; };
 		48A126E81C61FFD600F2C4A6 /* CloudRequest.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = CloudRequest.swift; path = Cloud/CloudRequest.swift; sourceTree = "<group>"; };
-		48A126EA1C62033B00F2C4A6 /* FeedHenry-Swift.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "FeedHenry-Swift.h"; sourceTree = "<group>"; };
 		48A126EB1C62195C00F2C4A6 /* FHDefines.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = FHDefines.h; path = Sync/FHDefines.h; sourceTree = "<group>"; };
 		48A857571C68940700EC00D4 /* CloudPropsTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CloudPropsTests.swift; sourceTree = "<group>"; };
 		48A857591C689F0100EC00D4 /* CloudProps.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = CloudProps.swift; path = Config/CloudProps.swift; sourceTree = "<group>"; };
@@ -274,7 +273,6 @@
 		4878D5DC1B579965004518C4 /* FeedHenry */ = {
 			isa = PBXGroup;
 			children = (
-				48A126EA1C62033B00F2C4A6 /* FeedHenry-Swift.h */,
 				483E82151C610CDD00E7F198 /* Sync */,
 				483E82111C5FB9BE00E7F198 /* Cloud */,
 				483E82121C5FB9D500E7F198 /* Config */,
